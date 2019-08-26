@@ -1,0 +1,35 @@
+{
+  "name": "curriculo",
+  "version": "1.0.0",
+  "description": "Modelo de curriculum vitae",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdixonAlberto/curriculo.git"
+  },
+  "keywords": [
+    "models",
+    "curriculum",
+    "javascript",
+    "html",
+    "css",
+    "chartjs"
+  ],
+  "author": {
+    "name": "Edixon Alberto",
+    "email": "edixonalbertto@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdixonAlberto/curriculo/issues"
+  },
+  "homepage": "https://github.com/EdixonAlberto/curriculo#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "chart.js": "^2.8.0"
+  }
+}
